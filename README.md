@@ -30,8 +30,9 @@
 <p><a href="https://www.buymeacoffee.com/parulgarg"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="parulgarg" /></a></p>
 </br></br>
 
-
+<h3 align="left">Stats:</h3>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=parulgarg123&show_icons=true&locale=en&layout=compact" alt="parulgarg123" /></p>
+
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=parulgarg123&show_icons=true&locale=en" alt="parulgarg123" /></p>
 
